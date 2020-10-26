@@ -13,3 +13,6 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: akmo3901@gmail.com  
 - ⚡ Fun fact: It is easier to maintain 100% than 98%.
 
+Started GitHub journey on Aug 8 2020
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AkMo3&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
