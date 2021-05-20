@@ -8,7 +8,7 @@ Here are some ideas to get you started: -->
 - 🔭 I’m currently working on [Checkstyle](https://github.com/checkstyle/checkstyle)
 - 🌱 I’m currently learning Java, Data Structures and Algorithms, React, Networking and Security. 
 - 👯 I’m looking to collaborate on everything that looks interesting.
-- 🤔 I’m looking for help with Python.
+- 🤔 I’m looking for help with C.
 - 💬 Ask me about Networking and Java.
 - 📫 How to reach me: akmo3901@gmail.com  
 - ⚡ Fun fact: It is easier to maintain 100% than 98%.
