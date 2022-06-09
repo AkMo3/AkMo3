@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a Backend Developer Intern in Eduhat.
+- 🔭 I’m currently working as a Student Developer at Google Summer Of Code.
 - :eyeglasses: Most comfortable with Java. 
 - 👯 I’m looking to collaborate on everything that looks interesting.
 - 💬 Ask me about Networking, Java, SpringBoot and Hibernate.
