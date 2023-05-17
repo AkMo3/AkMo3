@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Student Developer at Google Summer Of Code @ 2022 with NRNB.
+- 🔭 Student Developer at Google Summer Of Code @ 2023, 2022 with NRNB.
 - :eyeglasses: Most comfortable with Java. 
 - 👯 I’m looking to collaborate on everything that looks interesting.
 - 💬 Ask me about Networking, Java, SpringBoot and Hibernate.
